@@ -1,5 +1,6 @@
 #csapp #csapplab 
 
+
 # 介绍
 - Phase 1~3: 利用栈溢出攻击
 - Phase 4~5: 利用ROP攻击
@@ -676,4 +677,4 @@ PASS: Would have posted the following:
 ```
 
 # 总结
-PKU甚至CMU的不少学生都焦头烂额的实验,我独立完成,真是天才如我.只觉得什么CTF,逆向,pwn,也不过如此.
+我看网上不少名校的学生都焦头烂额的实验,我独立完成,真是天才如我.只觉得CTF的什么逆向,pwn,也不过如此.
